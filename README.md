@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nico Sotomayor
+# 👋 Hola, soy Nicolas Sotomayor
 
 🎓 Técnico en Ciberseguridad | Apasionado por el Blue Team y la defensa digital  
 💻 Practico a diario en plataformas como TryHackMe, Blue Team Labs y CyberDefender  
