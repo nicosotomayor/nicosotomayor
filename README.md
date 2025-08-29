@@ -37,7 +37,16 @@
 
 ###
 
-<p align="left">🎓 Técnico en Ciberseguridad | Apasionado por el Blue Team y la defensa digital<br>💻 Practico a diario en plataformas como TryHackMe, Blue Team Labs y CyberDefender<br>🔍 Experiencia con herramientas como Splunk, Wireshark, Nessus, Metasploit, Autopsy y más<br>🌐 También desarrollo sitios web con HTML, CSS, JavaScript, PHP y WordPress</p>
+<p align="left">
+🎓 Técnico en Ciberseguridad | Apasionado por el Blue Team y la defensa digital<br>
+💻 Practico a diario en plataformas como TryHackMe, Blue Team Labs y CyberDefender<br>
+🔍 Experiencia con herramientas como Splunk, Wireshark, Nessus, Metasploit, Autopsy y más<br>
+🌐 También desarrollo sitios web con HTML, CSS, JavaScript, PHP y WordPress<br>
+🚀 Actualmente estoy creando y publicando en GitHub herramientas propias en Python:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔑 Generador de Contraseñas Seguras<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Password Strength & Breach Checker<br>
+&nbsp;&nbsp;&nbsp;&nbsp;📧 Email Breach Checker (verifica si un correo aparece en filtraciones)<br>
+</p>
 
 ###
 
