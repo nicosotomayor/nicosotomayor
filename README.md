@@ -46,6 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔑 Generador de Contraseñas Seguras<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🛡️ Password Strength & Breach Checker<br>
 &nbsp;&nbsp;&nbsp;&nbsp;📧 Email Breach Checker (verifica si un correo aparece en filtraciones)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;📊 Mini-SIEM (analizador de logs en tiempo real con reportes y gráficos)<br>
 </p>
 
 ###
