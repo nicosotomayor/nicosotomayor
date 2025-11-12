@@ -39,7 +39,7 @@
 
 <p align="left">
 🎓 Técnico en Ciberseguridad | Apasionado por el Blue Team y la defensa digital<br>
-💻 Practico a diario en plataformas como TryHackMe, Blue Team Labs y CyberDefender<br>
+💻 Practico  en plataformas como TryHackMe, Blue Team Labs y CyberDefender<br>
 🔍 Experiencia con herramientas como Splunk, Wireshark, Nessus, Metasploit, Autopsy y más<br>
 🌐 También desarrollo sitios web con HTML, CSS, JavaScript, PHP y WordPress<br>
 🚀 Actualmente estoy creando y publicando en GitHub herramientas propias en Python:<br>
