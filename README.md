@@ -68,28 +68,21 @@ Splunk · Wazuh · Wireshark · TShark · Nessus · Metasploit · Autopsy · Vir
 
 ---
 
-<h3 align="left">Lenguajes y herramientas</h3>
+<h3 align="left">Herramientas de Ciberseguridad</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress" />
+
+  <img src="https://img.shields.io/badge/SIEM-Splunk-orange?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-Wazuh-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-TShark-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scanner-Nessus-00C176?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pentesting-Metasploit-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forensics-Autopsy-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat%20Intel-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sandbox-ANY.RUN-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scanning-Nmap-214478?style=for-the-badge" />
+
 </div>
 
 ---
