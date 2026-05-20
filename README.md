@@ -100,4 +100,4 @@ LinkedIn:
 https://www.linkedin.com/in/nikosotomayor-cyber
 
 Email:  
-nicoelsoto@hotmail.com
+nikosotomayor.cyber@gmail.com
